@@ -8,6 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is a discpline that deals with the systematic development of high quality software products using engineering methods,tools and principles.
 Software engineering is important because it plays a crucial role in the technology industry by enablingthe creation of reliable,scalable and innovative software solutions that meet the users needs.
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 1960s-Development of programming languages and establishment of software engineering as a discpline.
 1970s-The advent of structured programming.
